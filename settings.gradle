@@ -1,0 +1,2 @@
+rootProject.name='Lagos Tour Guide'
+include ':app'
